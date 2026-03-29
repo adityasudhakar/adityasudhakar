@@ -4,19 +4,14 @@ I build AI products, data systems, and small useful things.
 
 Most of my work sits at the intersection of product thinking, applied AI, and messy real-world data.
 
-## Current Focus
+## Projects
 
-- AI agents and internal tools
-- Text-to-SQL and data access workflows
-- Small experiments that turn into useful products
-
-## Selected Projects
-
-- [number-adder](https://github.com/adityasudhakar/number-adder) - AI-assisted product and engineering experiments.
-- [text2sql-access-control](https://github.com/adityasudhakar/text2sql-access-control) - Access-aware text-to-SQL work.
-- [shadowDB](https://github.com/adityasudhakar/shadowDB) - Database-focused experimentation.
-- [vanna-slack-hello-world](https://github.com/adityasudhakar/vanna-slack-hello-world) - Slack integration starter work.
-- [adityasudhakar.github.io](https://github.com/adityasudhakar/adityasudhakar.github.io) - Personal site and profile hub.
+- [vanna-ai](https://github.com/vanna-ai) - Natural-language interfaces for databases.
+- [text2sql-access-control](https://github.com/adityasudhakar/text2sql-access-control) - Secure text-to-SQL with enforced access control.
+- [number-adder](https://github.com/adityasudhakar/number-adder) - Agent-friendly multi-tenant API and CLI.
+- [company-search](https://github.com/adityasudhakar/company-search) - Search across docs and product data in one assistant.
+- [0human](https://github.com/adityasudhakar/0human) - Autonomous issue-to-merge GitHub pipeline.
+- [shadowDB](https://github.com/adityasudhakar/shadowDB) - Agents that make CRMs less central.
 
 ## Elsewhere
 
