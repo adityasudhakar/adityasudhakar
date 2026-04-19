@@ -10,3 +10,4 @@ It's been incredible tinkering with AI.
 - [company-search](https://github.com/adityasudhakar/company-search) — Search across docs and product data in one assistant.
 - [0human](https://github.com/adityasudhakar/0human) — Autonomous issue-to-merge GitHub pipeline.
 - [shadowDB](https://github.com/adityasudhakar/shadowDB) — Agents that make CRMs less central.
+- [3d-printer](https://github.com/adityasudhakar/3d-printer) — Exploring how AI can help with CAD for hobby 3D printing.
