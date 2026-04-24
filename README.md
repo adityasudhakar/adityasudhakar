@@ -11,3 +11,5 @@ It's been incredible tinkering with AI.
 - [0human](https://github.com/adityasudhakar/0human) — Autonomous issue-to-merge GitHub pipeline.
 - [shadowDB](https://github.com/adityasudhakar/shadowDB) — Agents that make CRMs less central.
 - [3d-printer](https://github.com/adityasudhakar/3d-printer) — Exploring how AI can help with CAD for hobby 3D printing.
+- [long-horizon-tasks](https://github.com/adityasudhakar/long-horizon-tasks) — Experiments and notes on running long-horizon tasks with Codex.
+- [creating-a-codex-skill](https://github.com/adityasudhakar/creating-a-codex-skill) — Building a reusable Codex skill with the built-in skill creator.
