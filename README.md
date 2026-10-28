@@ -1,6 +1,6 @@
 # Hi, I'm Adi
 
-It's been incredible tinkering with AI. 
+I've burned a few billion tokens. 
 
 ## projects
 
